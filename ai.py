@@ -6,8 +6,8 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Google Custom Search API Key and Search Engine ID
-GOOGLE_API_KEY = "AIzaSyAi6HsNKAytlItuQ2ipg1KirCR3uk1hPJQ"  # Replace with your valid API key
-SEARCH_ENGINE_ID = "1420a97d352e645d3"  # Replace with your search engine ID
+GOOGLE_API_KEY = "#########YOUR_API_KEY##########"  # Replace with your valid API key
+SEARCH_ENGINE_ID = "##########YOUR_ID#######"  # Replace with your search engine ID
 
 # Load SpaCy model for text processing
 try:
